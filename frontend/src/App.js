@@ -37,8 +37,6 @@ class App extends Component {
   }
 
   render() {
-    console.log('RENDER');
-
     return (
       <div className="App">
         <header className="App-header">
